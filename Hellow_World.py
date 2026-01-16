@@ -1,4 +1,4 @@
 def print_hi(name):
     print(f'Hi, {name}!')
 if __name__ == '__main__':
-    print_hi('Vlad Lyyn')
+    print_hi('Vlad Lyy')
