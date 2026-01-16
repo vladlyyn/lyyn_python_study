@@ -3,4 +3,4 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Vlad Lyyn')
 
-    #Вношу изменение в строке, коммит
+    #Вношу изменение в строке.
